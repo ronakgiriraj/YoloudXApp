@@ -12,7 +12,7 @@
             <i class="bx bx-chevron-left bx-sm align-middle"></i>
         </a>
     </div>
-
+ 
     <div class="menu-inner-shadow"></div>
 
     <ul class="menu-inner py-1">

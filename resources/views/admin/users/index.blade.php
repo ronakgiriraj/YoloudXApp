@@ -13,7 +13,7 @@
     <div id="renderAddUserModal"></div>
 
     <div class="row header-container">
-        <h4 style="margin: 0" class="fw-bold  w-auto"><span class="text-muted fw-light"> <a href="/admin" class="text-secondary">Dashboard</a> / </span> Users</h4>
+        <h4 style="margin: 0" class="fw-bold   w-auto"><span class="text-muted fw-light"> <a href="/admin" class="text-secondary">Dashboard</a> / </span> Users</h4>
         <a id="addUserBtn" href="javascript:void(0);" type="button" class="btn btn-primary ad-rgr-btn ml-auto addUserBtn">New Users</a>
     </div>
     <div class="card">
